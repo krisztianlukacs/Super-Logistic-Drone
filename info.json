@@ -1,0 +1,12 @@
+{
+  "name": "super-logistic-drone",
+  "version": "0.1.9",
+  "title": "Super Logistic Drone",
+  "author": "KrisztianLukacs",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "?quality"
+  ],
+  "description": "Black-yellow wasp-like super logistic drone with configurable speed and live count GUI (surface-based, 2.0-safe)."
+}
